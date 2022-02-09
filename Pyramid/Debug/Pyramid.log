@@ -1,0 +1,10 @@
+﻿  pSource.cpp
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(232,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(354,28): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(373,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(374,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(379,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(380,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(382,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\olive\Downloads\4-3 Pyramid\Pyramid\pSource.cpp(383,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Pyramid.vcxproj -> C:\Users\olive\Downloads\4-3 Pyramid\Debug\Pyramid.exe
